@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning to become **Web Developer**
+- 🌱 I'm an aspiring **Web Developer**
 
 
 <h3 align="left">Connect with me:</h3>
