@@ -1,4 +1,5 @@
 ### Hi👋, I'm Pilar
+- 🌱 I'm an aspiring **Web Developer**
 - 📫 You can reach me at **pilar.casanueva@gmail.com**
 
 <!--
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I'm an aspiring **Web Developer**
+
 
 
 <h3 align="left">Connect with me:</h3>
