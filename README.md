@@ -1,5 +1,5 @@
-### Hi👋, I'm Pilar
-- 🌱 I'm an aspiring **Developer**
+### Hi, I'm Pilar
+- 🌱 Full Stack Developer
 - 📫 You can reach me at **pilar.casanueva@gmail.com**
 
 <!--
